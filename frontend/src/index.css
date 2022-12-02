@@ -1,0 +1,30 @@
+body {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ max-width: 600px;
+ margin: auto;
+ text-align: center;
+}
+
+p {
+ color: #ffffff;
+}
+
+.background {
+ background: url(../public/img/background.jpg) no-repeat fixed center center;
+}
+
+.addBtn {
+ /* font-size: 16px; */
+ margin: 10px;
+ color: red;
+ font-weight: 300;
+ border-radius: 360px 360px 360px 360px;
+ box-shadow: 0px 0px 10px 0px #ffffff;
+ padding: 5px 30px;
+ display: inline-block;
+ transition: all 0.3s;
+ background: rgba(0, 0, 0, 0.3);
+ /* background-color: transparent; */
+}
