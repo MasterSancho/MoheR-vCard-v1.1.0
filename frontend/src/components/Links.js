@@ -46,7 +46,7 @@ const Links = () => {
     </Col>
 
     <Col>
-     <a href='https://www.facebook.com/shaiarieliremax'>
+     <a href='https://www.facebook.com/m0542446751'>
       <FaFacebook className='text-danger' size={30} />
      </a>
      <p>פייסבוק</p>

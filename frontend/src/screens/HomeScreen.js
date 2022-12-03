@@ -18,10 +18,11 @@ const HomeScreen = () => {
     <Links />
 
     <div>
-     <Button className='addBtn btn btn-success' type='button' size='lg'>
-      <a href='#'></a>
-      <FaUserPlus size={25} /> <span> שמור אותי באנשי הקשר</span>
-     </Button>
+     <a href={data.addContact}>
+      <Button className='addBtn btn btn-success' type='button' size='lg'>
+       <FaUserPlus size={25} /> <span> שמור אותי באנשי הקשר</span>
+      </Button>
+     </a>
     </div>
 
     <h3 className='text-secondary pt-3'>לשלוח כרטיס ביקור</h3>

@@ -6,6 +6,7 @@ const data = {
  description: '',
  brand: '',
  about: '',
+ addContact: './img/M.R-Nadlan.vcf',
  image1: './img/img-001.jpeg',
  image2: './img/img-002.jpeg',
  image3: './img/img-003.jpeg',
