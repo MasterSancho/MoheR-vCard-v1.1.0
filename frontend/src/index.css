@@ -28,3 +28,7 @@ p {
  background: rgba(0, 0, 0, 0.3);
  /* background-color: transparent; */
 }
+
+rotateImg {
+ transform: rotate(90deg);
+}
