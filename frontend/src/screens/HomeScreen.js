@@ -25,7 +25,7 @@ const HomeScreen = () => {
      </a>
     </div>
 
-    <h3 className='text-secondary pt-3'>לשלוח כרטיס ביקור</h3>
+    <h3 className='text-white pt-3'>לשלוח כרטיס ביקור</h3>
     <ShareLinks />
 
     <Divider />
@@ -38,7 +38,7 @@ const HomeScreen = () => {
 
     <Divider />
 
-    <h2 className='text-secondary pb-3'>לקוחות ממליצים</h2>
+    <h2 className='text-white pb-3'>לקוחות ממליצים</h2>
     <Recommendation />
     <Divider />
    </div>

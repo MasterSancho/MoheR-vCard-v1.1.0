@@ -41,9 +41,6 @@ const Gallery = () => {
       <Carousel.Item interval={3000}>
        <Image src={data.image11} alt='Gallery image' height={250} />
       </Carousel.Item>
-      <Carousel.Item interval={3000}>
-       <Image src={data.image12} alt='Gallery image' height={250} />
-      </Carousel.Item>
      </Carousel>
     </Col>
    </Row>
