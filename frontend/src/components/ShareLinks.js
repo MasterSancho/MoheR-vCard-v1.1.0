@@ -6,7 +6,7 @@ const ShareLinks = () => {
   <Container className='px-5'>
    <Row>
     <Col>
-     <a href='#'>
+     <a href='mailto:?subject=IRC%20%D7%9E%D7%A9%D7%94%20%D7%A8%D7%95%D7%96%D7%A0%D7%A6%D7%95%D7%95%D7%99%D7%99%D7%92%20-%20%D7%96%D7%9B%D7%99%D7%99%D7%9F%20%D7%A8%D7%99%D7%9E%D7%A7%D7%A1&amp;body=https%3A%2F%2Fmr-nadlan.web.app%2F'>
       <FaEnvelope className='text-danger' size={30} />
      </a>
     </Col>
@@ -24,7 +24,7 @@ const ShareLinks = () => {
     </Col>
 
     <Col>
-     <a href='#'>
+     <a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmr-nadlan.web.app%2F'>
       <FaFacebook className='text-danger' size={30} />
      </a>
     </Col>
