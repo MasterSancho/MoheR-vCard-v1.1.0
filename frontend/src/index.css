@@ -28,7 +28,10 @@ p {
  background: rgba(0, 0, 0, 0.3);
  /* background-color: transparent; */
 }
-
-rotateImg {
- transform: rotate(90deg);
+.videoBg {
+ position: fixed;
+ right: 0;
+ bottom: 0;
+ min-width: 100%;
+ min-height: 100%;
 }
