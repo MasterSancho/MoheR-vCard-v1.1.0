@@ -11,6 +11,10 @@ p {
  color: #ffffff;
 }
 
+hr {
+ border: 2px solid red;
+}
+
 .background {
  background: url(../public/img/background.jpg) no-repeat fixed center center;
 }

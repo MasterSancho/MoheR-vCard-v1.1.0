@@ -3,6 +3,7 @@ import Image from 'react-bootstrap/Image';
 import { FaUserPlus } from 'react-icons/fa';
 import About from '../components/About';
 import Divider from '../components/Divider';
+import FormComponent from '../components/FormComponent';
 import Gallery from '../components/Gallery';
 import Links from '../components/Links';
 import Recommendation from '../components/Recommendation';
@@ -41,6 +42,8 @@ const HomeScreen = () => {
     <h2 className='text-white pb-3'>לקוחות ממליצים</h2>
     <Recommendation />
     <Divider />
+
+    <FormComponent />
    </div>
   </div>
  );
